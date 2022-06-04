@@ -1,0 +1,15 @@
+{
+  "name": "npmapp",
+  "version": "1.0.0",
+  "description": "Lernjournal Week 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Hauser",
+  "license": "MIT",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "chart.js": "^2.9.3"
+  }
+}
